@@ -29,7 +29,7 @@ class Autocomplete {
 			if (!target.matches(".autocomplete__item")) {
 				return;
 			}
-че
+			че
 			const {
 				textContent: text
 			} = target, {
